@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "kind": "preview-gallery",
+  "images": [
+    {
+      "id": "3d937bd35c9e2104fd7fc747cec252792a715648e9ddcfd1d151cf87ff74bd58",
+      "original_sha256": "3d937bd35c9e2104fd7fc747cec252792a715648e9ddcfd1d151cf87ff74bd58",
+      "original_filename": "blue-notebook.jpg",
+      "object_path": "objects/3d937bd35c9e2104fd7fc747cec252792a715648e9ddcfd1d151cf87ff74bd58.jpg",
+      "mime": "image/jpeg",
+      "width": 360,
+      "height": 260,
+      "alt_text": "A blue notebook with white page lines.",
+      "tags": [
+        "blue",
+        "notebook",
+        "paper"
+      ],
+      "metadata_source": "manual",
+      "review_status": "reviewed",
+      "created_at": "2026-11-20T19:42:30.471890Z",
+      "preview_path": "assets/3d937bd35c9e2104fd7fc747cec252792a715648e9ddcfd1d151cf87ff74bd58.png"
+    },
+    {
+      "id": "cc876ae7f65697346ec415c30a61fb270e54fb1b08f404a211cddde63e5e7199",
+      "original_sha256": "cc876ae7f65697346ec415c30a61fb270e54fb1b08f404a211cddde63e5e7199",
+      "original_filename": "orange-mug.png",
+      "object_path": "objects/cc876ae7f65697346ec415c30a61fb270e54fb1b08f404a211cddde63e5e7199.png",
+      "mime": "image/png",
+      "width": 360,
+      "height": 260,
+      "alt_text": "An orange mug on a cream background.",
+      "tags": [
+        "orange",
+        "mug",
+        "cream"
+      ],
+      "metadata_source": "manual",
+      "review_status": "reviewed",
+      "created_at": "2026-11-20T19:42:30.466806Z",
+      "preview_path": "assets/cc876ae7f65697346ec415c30a61fb270e54fb1b08f404a211cddde63e5e7199.png"
+    },
+    {
+      "id": "d86adba3a6e32af668578fec735e4fe22ddf867798f448a309003b9e18a8b5c6",
+      "original_sha256": "d86adba3a6e32af668578fec735e4fe22ddf867798f448a309003b9e18a8b5c6",
+      "original_filename": "green-leaf.webp",
+      "object_path": "objects/d86adba3a6e32af668578fec735e4fe22ddf867798f448a309003b9e18a8b5c6.webp",
+      "mime": "image/webp",
+      "width": 360,
+      "height": 260,
+      "alt_text": "A green leaf with a thin stem on a pale background.",
+      "tags": [
+        "green",
+        "leaf",
+        "stem"
+      ],
+      "metadata_source": "manual",
+      "review_status": "reviewed",
+      "created_at": "2026-11-20T19:42:30.504415Z",
+      "preview_path": "assets/d86adba3a6e32af668578fec735e4fe22ddf867798f448a309003b9e18a8b5c6.png"
+    }
+  ]
+}

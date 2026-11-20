@@ -1,0 +1,32 @@
+{
+  "workflow": "offline manual metadata",
+  "results": [
+    {
+      "case": "orange-mug.png",
+      "original_sha256": "cc876ae7f65697346ec415c30a61fb270e54fb1b08f404a211cddde63e5e7199",
+      "passed": true
+    },
+    {
+      "case": "blue-notebook.jpg",
+      "original_sha256": "3d937bd35c9e2104fd7fc747cec252792a715648e9ddcfd1d151cf87ff74bd58",
+      "passed": true
+    },
+    {
+      "case": "green-leaf.webp",
+      "original_sha256": "d86adba3a6e32af668578fec735e4fe22ddf867798f448a309003b9e18a8b5c6",
+      "passed": true
+    },
+    {
+      "case": "persistent-known-answer-search",
+      "passed": true
+    },
+    {
+      "case": "gallery-and-metadata-export",
+      "passed": true
+    }
+  ],
+  "passed": 5,
+  "total": 5,
+  "live_vision_evaluated": false,
+  "limit": "Synthetic drawings and human-authored labels test storage/search/export only, not AI image understanding."
+}

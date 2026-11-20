@@ -1,0 +1,26 @@
+{
+  "orange-mug.png": {
+    "alt_text": "An orange mug on a cream background.",
+    "tags": [
+      "orange",
+      "mug",
+      "cream"
+    ]
+  },
+  "blue-notebook.jpg": {
+    "alt_text": "A blue notebook with white page lines.",
+    "tags": [
+      "blue",
+      "notebook",
+      "paper"
+    ]
+  },
+  "green-leaf.webp": {
+    "alt_text": "A green leaf with a thin stem on a pale background.",
+    "tags": [
+      "green",
+      "leaf",
+      "stem"
+    ]
+  }
+}
